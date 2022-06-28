@@ -27,6 +27,10 @@ Premier test avec le microcontrolleur XIAO BLE et le XIA BLE expansion board.
 
 Dans l'IDE Arduino, aller dans `Preferences³Additional boards manager URLs` et ajouter l'URL suivante : `https://files.seedstudio.com/arduino/package_seeduino_boards_index.json`
 
+
+### Troubleshooting
+Compilation error: exec: "adafruit-nrfutil": executable file not found in $PATH : `pip3 install --user adafruit-nrfutil`
+
 ## Utilisation du dépôt
 
 ### Cloner
